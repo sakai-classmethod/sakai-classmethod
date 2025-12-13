@@ -22,7 +22,7 @@
 const sakai = {
   role: "Solutions Architect",
   location: "Japan",
-  focus: ["Cloud Architecture", "Serverless", "Infrastructure as Code"],
+  focus: ["Cloud Architecture", "GenAI", "Infrastructure as Code"],
   currentlyLearning: "Always something new!",
 };
 ```
@@ -62,19 +62,14 @@ const sakai = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakai-classmethod&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
+  <img src="https://streak-stats.demolab.com/?user=sakai-classmethod&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
 </p>
 
 ---
 
-## GitHub Trophy
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakai-classmethod&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakai-classmethod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" />
-</p>
